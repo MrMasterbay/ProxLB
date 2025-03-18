@@ -1,2 +1,0 @@
-fixed:
-  - Fix allowed values (add DEBUG, WARNING) for log verbosity (by @gyptazy). [#98]

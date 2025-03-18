@@ -1,2 +1,0 @@
-changed:
-  - Provide a more reasonable output when HA services are not active in a Proxmox cluster. [#68]

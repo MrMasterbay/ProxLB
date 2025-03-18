@@ -1,2 +1,0 @@
-added:
-  - Add maintenance mode to evacuate a node and move workloads for other nodes in the cluster. [#58]
